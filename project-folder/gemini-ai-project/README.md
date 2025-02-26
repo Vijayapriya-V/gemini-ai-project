@@ -1,0 +1,2 @@
+# gemini-ai-project
+In this project, I learned how to containerize a Python application using Docker. I configured a Gemini API key dynamically, built a Docker image, and executed it within a container. Additionally, I explored how to handle environment variables securely using an .env file and pass them dynamically during runtime. Troubleshooting dependency issues and structuring a Dockerfile were key takeaways. Finally, I successfully pushed the project to GitHub, making it accessible for future deployment.

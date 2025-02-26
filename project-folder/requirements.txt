@@ -1,0 +1,4 @@
+google-generativeai
+numpy
+tensorflow
+opencv-python
